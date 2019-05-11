@@ -1,0 +1,8 @@
+main: com.nayoshi.particle.ParticleTesters
+version: "1.0"
+name: "Particle-Farticle"
+
+commands:
+  particle-tester:
+    aliases: ["pt"]
+    description: "Particle tester"
